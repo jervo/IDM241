@@ -1,4 +1,4 @@
-# IDM232 Alpha
+# IDM241 Alpha
 
 This page describes an assignment for this course. Due dates and submissions are handled through [Drexel Blackboard](https://learn.dcollege.net/).
 

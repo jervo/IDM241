@@ -144,6 +144,8 @@ Let's compare and constrast some of the microinteractions of instagram vs tumblr
 - Be prepared to share your screen and identify the structure of said microinteraction to the rest of the class. (5 minutes or less per student)
 -- Trigger, Rules, Feedback and loop/Modes.
 
+^ i.e. No one can use instagram or tumblr since I already used them in classroom examples.
+
 ---
 
 # IDM 241

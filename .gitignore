@@ -41,16 +41,12 @@ Thumbs.db
 # Media #
 ############
 *.mp3
-*.mp4
 *.ogg
 *.ogv
 *.webm
 
 # Custom #
 ######################
-*.jpg
-*.png
-*.gif
 examples/week7/app/build/question-*.html
 graphics
 inbox

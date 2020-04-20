@@ -55,7 +55,7 @@ presenter-notes: text-scale(1), alignment(left), Helvetica
 
 ## Microinteractions do one task WELL
 
-![fill autoplay loop](../videos/Upload-Button-to-Circular-Progress-Bar-MicroInteraction.mp4)
+![inline](../images/ThumpsUpAnim.gif)
 
 ^ Microinteractions are contained product moments that revolve around a single use case. They have one main task. They are everywhere: in the devices we carry, the appliances in our house, the apps on our phones and desktops, even embedded in the environments we live and work in.
 

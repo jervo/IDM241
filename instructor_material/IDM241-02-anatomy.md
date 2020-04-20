@@ -69,7 +69,7 @@ presenter-notes: text-scale(1), alignment(left), Helvetica
 
 ## The Structure of Interactions
 
-![inline full](../images/StructureOfInteractions.png)
+![inline](../images/StructureOfInteractions.png)
 
 ^ Triggers, Rules, Feedback, Loops & Modes
 
@@ -120,9 +120,7 @@ The meta rules that affect the microinteraction.
 
 ## Elegant Microinteractions
 
-![inline full](../images/StructureOfInteractions.png)
-
-Elegant microinteractions can be become Signature Moments for your application.
+### Elegant microinteractions can be become SIGNATURE MOMENTS for your application.
 
 ---
 

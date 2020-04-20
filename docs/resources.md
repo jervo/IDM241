@@ -5,8 +5,31 @@
 - [02 Anatomy of Microinteractions ](http://digm.drexel.edu/crs/IDM241/presentations/pdf/IDM241-02-anatomy.pdf)
 
 
+## Articles
+- [Micro-interactions: why, when and how to use them to improve the user experience](https://uxdesign.cc/micro-interactions-why-when-and-how-to-use-them-to-boost-the-ux-17094b3baaa0)
 
-## Reading Material
+
+## Online Resources
+
+[CodePen.IO](https://codepen.io/)
+
+- [32 Microinterations UI Design Examples](https://codemyui.com/tag/microinteractions/)
+- [AniJS](https://anijs.github.io/)
+- [Animate.css](https://daneden.github.io/animate.css/)
+- [AnimeJS.com](https://animejs.com/)
+- [BounceJS.com](http://bouncejs.com/)
+- [Hover.css](http://ianlunn.github.io/Hover/)
+- [Magic Animations CSS3](https://www.minimamente.com/project/magic/)
+- [Micron.js](https://webkul.github.io/micron/)
+- [Zdog pseudo-3D engine for canvas](https://zzz.dog/)
+
+
+## Inspiration
+
+- [UI Interactions of the week #205](https://medium.muz.li/ui-interactions-of-the-week-205-2490927fa4a8)
+- [UI Interactions of the week #194](https://medium.muz.li/ui-interactions-of-the-week-194-50e91ebd4af1)
+
+## Books
 
 - [Microinteractions Designing With Details](https://www.amazon.com/Microinteractions-Full-Color-Designing-Details-ebook/dp/B00FRSNHIW/) ISBN: 1491945923. copyright 2013 Dan Suffer. eBook: Full Text Online at [library.drexel.edu](https://www.library.drexel.edu/)
 

@@ -17,6 +17,7 @@
 - [AniJS](https://anijs.github.io/)
 - [Animate.css](https://daneden.github.io/animate.css/)
 - [AnimeJS.com](https://animejs.com/)
+- [Animista.net](https://animista.net/play)
 - [BounceJS.com](http://bouncejs.com/)
 - [Hover.css](http://ianlunn.github.io/Hover/)
 - [Magic Animations CSS3](https://www.minimamente.com/project/magic/)

@@ -4,7 +4,7 @@ This page describes an assignment for this course. Due dates and submissions are
 
 ## Alpha Description
 
-Design and create an HTML based web page that descibes the details of your Alpha microinteraction:
+Design and create an HTML based web page (NOT PHP) that descibes the details of your first (Alpha) simple microinteraction:
 
 - URL to the orginal interface (Web site, Application, Game etc) you wish to improve (If applicable)
 - TRIGGERS - Describe in detail what event(s) will start your microinteraction.

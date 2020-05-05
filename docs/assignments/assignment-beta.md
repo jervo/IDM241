@@ -6,7 +6,7 @@ This page describes an assignment for this course. Due dates and submissions are
 
 Build/code your "Alpha" your microinteraction
 
-- One to three functional microinteraction object(s) centered horiznatally at the top of your web page
+- One to three functional microinteraction object(s) centered horizontally at the top of your web page
 - Under your functional "Alpha" microinteraction object(s) list:
   - TRIGGERS - Describe in detail what event(s) will start your microinteraction.
   - RULES - Describe in detail all of the rules in your microinteraction (2-3).

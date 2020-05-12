@@ -1,62 +1,36 @@
-# IDM241 Final Project
+# IDM241 Final
 
 This page describes an assignment for this course. Due dates and submissions are handled through [Drexel Blackboard](https://learn.dcollege.net/).
 
-- [IDM241 Final Project](#idm241-final-project)
-  - [Project Description](#project-description)
-  - [Project Asset Files](#project-asset-files)
-  - [Project Requirements](#project-requirements)
-  - [Grading Criteria](#grading-criteria)
-  - [Extra Credit](#extra-credit)
-  - [Screen Capture Video](#screen-capture-video)
-  - [Submitting the Assignment](#submitting-the-assignment)
 
-## Project Description
+## Beta Build
 
-TBA
+Build/code your "Beta" your microinteraction
 
-## Project Asset Files
+- One to three functional microinteraction object(s) centered horizontally at the top of your web page
+- Under your functional "Beta" microinteraction object(s) list:
+  - TRIGGERS - Describe in detail what event(s) will start your microinteraction.
+  - RULES - Describe in detail all of the rules in your microinteraction (2-3).
+  - FEEDBACK - Describe in detail what the user will SEE, HEAR or FEEL.
+  - LOOPS & MODES - Describe in detail meta-rules of your microinteraction (repeating objects, additional modules, changes to the microinteraction if conditions change, etc).
 
-TBA
+## Final Description
 
-## Project Requirements
+Design and create an HTML based web page (NOT PHP) that describes the details of your (Final) "complex" microinteraction(s):
 
-TBA
-## Grading Criteria
-
-Your final project represents the culmination of ten weeks. This project will be graded based on the following criteria:
-
-1. Code Quality
-    - Is all of your code valid?
-    - Did you follow best practices regarding file names, characters, coding styles?
-    - Is your code legible and easy to navigate?
-    - Does your code use comments?
-2. Functionality
-    - Everything needs to work (e.g. links, videos, audio, images, rollovers etc.). If it's part of your site it must be working properly.
-3. Design
-    - Is your site visually pleasing?
-    - Is your content legible with proper contrast, color scheme, typography etc.?
-    - Would you feel comfortable using this project in a job interview as an example of your skills?
-4. Technique
-    - Is the project built in an optimized fashion? Will future maintenance be minimal?
-    - Is the database well structured and easy to manipulate?
-    - Is the application properly templated, with minimal repetition of code?
-
-## Extra Credit
-
-TBA
-
-## Screen Capture Video
-
-TBA
+- URL to the original interface (Web site, Application, Game etc) you wish to improve (If applicable)
+- TRIGGERS - Describe in detail what event(s) will start your microinteraction(s).
+- RULES - Describe in detail all of the rules in your microinteraction(s) (4-5).
+- FEEDBACK - Describe in detail what the user will SEE, HEAR or FEEL.
+- LOOPS & MODES - Describe in detail meta-rules of your microinteraction(s) (repeating objects, additional modules, changes to the microinteraction(s) if conditions change, etc).
+- Static images and/or animated gifs that help visualize how your "complex" microinteraction(s) will work. DO NOT use place holder images!
 
 ## Submitting the Assignment
 
 Submit the following items in [Drexel Blackboard](https://learn.dcollege.net/) under **Final Project**:
 
-1. A link to your self hosted website project page. From this page, I can fully engage the project and have access to all supplementary pages and functions.
-1. A link to your GitHub repository (i.e. "idm241_abc123") containing the code for your final project.
-1. A link to your [case study](case-study.md) web page.
-
+1. A link to your self hosted built/coded Beta web page (i.e. https://www.yourdomainname.com/idm241/beta/build).
+1. A link to your self hosted final description web page (i.e. https://www.yourdomainname.com/idm241/final).
+1. A link to your GitHub repository containing the code for this class (i.e. "idm241-abc123").
 
 **Late submissions may receive zero points.**

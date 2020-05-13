@@ -1,4 +1,4 @@
-# IDM241 Final
+# IDM241 Beta
 
 This page describes an assignment for this course. Due dates and submissions are handled through [Drexel Blackboard](https://learn.dcollege.net/).
 

@@ -3,7 +3,8 @@
 This page describes an assignment for this course. Due dates and submissions are handled through [Drexel Blackboard](https://learn.dcollege.net/).
 
 
-## Beta Build  (before June 1st  11:00 pm EST)
+## Beta Build  (Section 001, before June 1st  11:00 pm EST )
+## Beta Build  (Section 002, before June 3rd  11:00 pm EST)
 
 Build/code your "Beta" your microinteraction
 
@@ -14,7 +15,8 @@ Build/code your "Beta" your microinteraction
   - FEEDBACK - Describe in detail what the user will SEE, HEAR or FEEL.
   - LOOPS & MODES - Describe in detail meta-rules of your microinteraction (repeating objects, additional modules, changes to the microinteraction if conditions change, etc).
 
-## Final Description (before June 1st  11:00 pm EST)
+## Final Description (Section 001, before June 1st  11:00 pm EST)
+## Final Description (Section 002, before June 3rd  11:00 pm EST)
 
 Design and create an HTML based web page (NOT PHP) that describes the details of your (Final) "complex" microinteraction(s):
 
@@ -34,7 +36,7 @@ Submit the following items in [Drexel Blackboard](https://learn.dcollege.net/) u
 1. A link to your GitHub repository containing the code for this class (i.e. "idm241-abc123").
 
 
-# Final Build (before June 12th 11:00 pm EST)
+# Final Build (Both Sections, before June 12th 11:00 pm EST s001)
 
 Build/code your "Final" your microinteraction(s)
 

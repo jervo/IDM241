@@ -14,9 +14,9 @@ Build/code your "Alpha" your microinteraction
   - FEEDBACK - Describe in detail what the user will SEE, HEAR or FEEL.
   - LOOPS & MODES - Describe in detail meta-rules of your microinteraction (repeating objects, additional modules, changes to the microinteraction if conditions change, etc).
 
-## Final Description
+## Beta Description
 
-Design and create an HTML based web page (NOT PHP) that describes the details of your (Final) "medium" microinteraction:
+Design and create an HTML based web page (NOT PHP) that describes the details of your (Beta) "medium" microinteraction:
 
 - URL to the original interface (Web site, Application, Game etc) you wish to improve (If applicable)
 - TRIGGERS - Describe in detail what event(s) will start your microinteraction.
@@ -30,7 +30,7 @@ Design and create an HTML based web page (NOT PHP) that describes the details of
 Submit the following items in [Drexel Blackboard](https://learn.dcollege.net/) under **Final**:
 
 1. A link to your self hosted built/coded Alpha web page (i.e. https://www.yourdomainname.com/idm241/alpha/build).
-1. A link to your self hosted Final web page (i.e. https://www.yourdomainname.com/idm241/Final).
+1. A link to your self hosted Beta web page (i.e. https://www.yourdomainname.com/idm241/Beta).
 1. A link to your GitHub repository containing the code for this class (i.e. "idm241-abc123").
 
 **Late submissions may receive zero points.**

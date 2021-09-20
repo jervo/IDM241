@@ -17,11 +17,11 @@ Case studies are narratives that reveal what you are capable of. They allow you 
 
 ## Samples
 
-Here are some links to what I think are good examples. They are not crazy, but they do show great content and structure.
+Here are some links to what I think are good examples. They are not super complex, but they do show great content and structure.
 
-- [http://simonpan.com/work/amazon-prime-music/](http://simonpan.com/work/amazon-prime-music/)
-- [https://design.google/library/evolving-google-identity/](https://design.google/library/evolving-google-identity/)
-- [https://www.gravitatedesign.com/work/visit-seattle/](https://www.gravitatedesign.com/work/visit-seattle/)
+- [http://simonpan.com/work/amazon-prime-music/](http://simonpan.com/work/amazon-prime-music/){:target="_blank"}
+- [https://design.google/library/evolving-google-identity/](https://design.google/library/evolving-google-identity/){:target="_blank"}
+- [https://www.gravitatedesign.com/work/visit-seattle/](https://www.gravitatedesign.com/work/visit-seattle/){:target="_blank"}
 
 ## Case Study Format
 

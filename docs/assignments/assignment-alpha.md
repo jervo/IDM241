@@ -17,7 +17,7 @@ Design and create an HTML based web page (NOT PHP) that describes the details of
 
 Submit the following items in [Drexel Blackboard](https://learn.dcollege.net/) under **Alpha** - Assignment Submission:
 
-1. A link to your self hosted Alpha web page (i.e. https://www.yourdomainname.com/idm241/alpha).
+1. A link to your self hosted Alpha web page (Format.. https://www.yourdomainname.com/idm241/alpha).
 1. A link to your GitHub repository containing the code for this class (i.e. "idm241-abc123").
 
 **Late submissions may receive zero points.**

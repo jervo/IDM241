@@ -128,7 +128,7 @@ The meta rules that affect the microinteraction.
 
 ## [fit] instagram.com -vs- tumblr.com
 
-Let's compare and constrast some of the microinteractions of instagram vs tumblr
+Let's compare and contrast some of the microinteractions of instagram vs tumblr
 
 ^ Professor shares screen and compares microinteraction structures of  Heart, Comment etc.
 
@@ -137,7 +137,7 @@ Let's compare and constrast some of the microinteractions of instagram vs tumblr
 ## Classroom exercise
 
 - Find a web site that has at least one interesting microinteraction. (15 minutes)
-- Add a link to that site to zoom chat window. (10 minutes)
+- Add a link to that site to Discord - Drexel UXID - Courses - IDM241. (10 minutes)
 -- NOTE: NO repeats, if that domain is already posted find another one!
 - Be prepared to share your screen and identify the structure of said microinteraction to the rest of the class. (5 minutes or less per student)
 -- Trigger, Rules, Feedback and loop/Modes.

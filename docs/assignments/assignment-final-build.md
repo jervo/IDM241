@@ -9,7 +9,7 @@ Build/code your "Final" your microinteraction(s)
 
 - You final microinteraction(s) centered horizontally at the top of your web page
 - Under your functional "final" microinteraction(s) list:
-  - TRIGGERS - Describe in detail what event(s) will start your microinteraction.
+  - TRIGGERS - Describe in detail what event(s) will start your microinteraction (5 minimum).
   - RULES - Describe in detail all of the rules in your microinteraction (4-5).
   - FEEDBACK - Describe in detail what the user will SEE, HEAR or FEEL.
   - LOOPS & MODES - Describe in detail meta-rules of your microinteraction (repeating objects, additional modules, changes to the microinteraction if conditions change, etc).

@@ -7,7 +7,7 @@ This page describes an assignment for this course. Due dates and submissions are
 Design and create an HTML based web page (NOT PHP) that describes the details of your (Final) "complex" microinteraction(s):
 
 - URL to the original interface (Web site, Application, Game etc) you wish to improve (If applicable)
-- TRIGGERS - Describe in detail what event(s) will start your microinteraction(s).
+- TRIGGERS - Describe in detail what event(s) will start your microinteraction(s) (5 minimum).
 - RULES - Describe in detail all of the rules in your microinteraction(s) (4-5).
 - FEEDBACK - Describe in detail what the user will SEE, HEAR or FEEL.
 - LOOPS & MODES - Describe in detail meta-rules of your microinteraction(s) (repeating objects, additional modules, changes to the microinteraction(s) if conditions change, etc).

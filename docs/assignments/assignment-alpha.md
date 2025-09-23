@@ -11,7 +11,7 @@ Design and create an HTML based web page (NOT PHP) that describes the details of
 - RULES - Describe in detail all of the rules in existing microinteraction (1-2).
 - FEEDBACK - Describe in detail what the user will SEE, HEAR or FEEL.
 - LOOPS & MODES - Describe in detail meta-rules of existing microinteraction (repeating objects, additional modules, changes to the microinteraction if conditions change, etc).
-- Static images and/or animated gifs that help visualize how existing "simple" microinteraction will work. DO NOT use place holder images!
+- Static images and/or animated gifs that help visualize how the existing "simple" microinteraction works. DO NOT use place holder images!
 
 ## Submitting the Assignment
 
